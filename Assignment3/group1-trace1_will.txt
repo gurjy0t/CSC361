@@ -1,0 +1,43 @@
+The IP address of the source node: 192.168.100.17
+The IP address of ultimate destination node: 8.8.8.8
+The IP addresses of the intermediate destination nodes:
+	router 1: 142.104.68.167
+	router 2: 142.104.68.1
+	router 3: 192.168.9.5
+	router 4: 192.168.10.1
+	router 5: 192.168.8.6
+	router 6: 142.104.252.37
+	router 7: 142.104.252.246
+	router 8: 207.23.244.242
+	router 9: 206.12.3.17
+	router 10: 199.212.24.64
+	router 11: 206.81.80.17
+	router 12: 74.125.37.91
+	router 13: 72.14.237.123
+	router 14: 209.85.250.121
+	router 15: 209.85.249.155
+	router 16: 209.85.249.153
+
+
+The values in the protocol field of IP headers:
+	17: UDP
+	1: ICMP
+
+
+The avg RTT between 192.168.100.17 and 142.104.68.167 is: 11 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 142.104.68.1 is: 16 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 192.168.9.5 is: 16 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 192.168.10.1 is: 17 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 192.168.8.6 is: 18 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 142.104.252.37 is: 11 ms, the s.d. is: 6 ms
+The avg RTT between 192.168.100.17 and 142.104.252.246 is: 13 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 207.23.244.242 is: 14 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 206.12.3.17 is: 18 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 199.212.24.64 is: 16 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 206.81.80.17 is: 19 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 74.125.37.91 is: 11 ms, the s.d. is: 2 ms
+The avg RTT between 192.168.100.17 and 72.14.237.123 is: 0 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 209.85.250.121 is: 0 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 209.85.249.155 is: 0 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 209.85.249.153 is: 0 ms, the s.d. is: 0 ms
+The avg RTT between 192.168.100.17 and 8.8.8.8 is: 19 ms, the s.d. is: 3 ms

@@ -1,0 +1,29 @@
+Analyzing the file traces/group2-trace1.pcapng. . .
+file was generated on Windows
+
+The IP address of the source node: 192.168.0.16
+The IP address of ultimate destination node: 8.8.8.8
+
+The IP addresses of the intermediate destination nodes: 
+	 router 1: 192.168.0.1
+	 router 2: 24.108.0.1
+	 router 3: 64.59.161.197
+	 router 4: 66.163.72.26
+	 router 5: 66.163.68.18
+	 router 6: 72.14.221.102
+	 router 7: 108.170.245.113
+	 router 8: 209.85.249.249
+
+The values in the protocol field of IP headers: 
+1: ICMP
+
+The avg RRT between 192.168.0.16 and 192.168.0.1 is 3.3 ms the s.d is 1.63 ms
+The avg RRT between 192.168.0.16 and 24.108.0.1 is 15.83 ms the s.d is 2.29 ms
+The avg RRT between 192.168.0.16 and 64.59.161.197 is 18.87 ms the s.d is 2.79 ms
+The avg RRT between 192.168.0.16 and 66.163.72.26 is 22.87 ms the s.d is 1.58 ms
+The avg RRT between 192.168.0.16 and 66.163.68.18 is 26.53 ms the s.d is 4.01 ms
+The avg RRT between 192.168.0.16 and 72.14.221.102 is 24.3 ms the s.d is 2.51 ms
+The avg RRT between 192.168.0.16 and 108.170.245.113 is 18.4 ms the s.d is 0.45 ms
+The avg RRT between 192.168.0.16 and 209.85.249.249 is 23.03 ms the s.d is 4.93 ms
+The avg RRT between 192.168.0.16 and 8.8.8.8 is 18.13 the s.d is 0.76 ms
+{1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3}

@@ -1,0 +1,40 @@
+Analyzing the file traces/win_trace1.pcapng. . .
+file was generated on Windows
+
+The IP address of the source node: 192.168.0.17
+The IP address of ultimate destination node: 8.8.8.8
+
+The IP addresses of the intermediate destination nodes: 
+	 router 1: 142.104.69.243
+	 router 2: 142.104.68.1
+	 router 3: 192.168.9.5
+	 router 4: 192.168.10.1
+	 router 5: 192.168.8.6
+	 router 6: 142.104.252.37
+	 router 7: 142.104.252.246
+	 router 8: 207.23.244.242
+	 router 9: 206.12.3.17
+	 router 10: 199.212.24.64
+	 router 11: 206.81.80.17
+	 router 12: 74.125.37.91
+	 router 13: 209.85.250.59
+
+The values in the protocol field of IP headers: 
+1: ICMP
+6: TCP
+17: UDP
+
+The avg RTT between 192.168.0.17 and 142.104.69.243 is 1.07 ms the s.d is 0.09 ms
+The avg RTT between 192.168.0.17 and 142.104.68.1 is 1.5 ms the s.d is 0.08 ms
+The avg RTT between 192.168.0.17 and 192.168.9.5 is 1.4 ms the s.d is 0.08 ms
+The avg RTT between 192.168.0.17 and 192.168.10.1 is 1.43 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.17 and 192.168.8.6 is 1.7 ms the s.d is 0.14 ms
+The avg RTT between 192.168.0.17 and 142.104.252.37 is 1.6 ms the s.d is 0.14 ms
+The avg RTT between 192.168.0.17 and 142.104.252.246 is 1.97 ms the s.d is 0.09 ms
+The avg RTT between 192.168.0.17 and 207.23.244.242 is 2.07 ms the s.d is 0.09 ms
+The avg RTT between 192.168.0.17 and 206.12.3.17 is 5.27 ms the s.d is 2.0 ms
+The avg RTT between 192.168.0.17 and 199.212.24.64 is 3.83 ms the s.d is 0.09 ms
+The avg RTT between 192.168.0.17 and 206.81.80.17 is 7.33 ms the s.d is 0.12 ms
+The avg RTT between 192.168.0.17 and 74.125.37.91 is 7.57 ms the s.d is 0.12 ms
+The avg RTT between 192.168.0.17 and 209.85.250.59 is 7.5 ms the s.d is 0.08 ms
+The avg RTT between 192.168.0.17 and 8.8.8.8 is 7.33 the s.d is 0.05 ms

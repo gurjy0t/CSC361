@@ -1,0 +1,46 @@
+Analyzing the file traces/win_trace2.pcapng. . .
+file was generated on Windows
+
+The IP address of the source node: 192.168.0.17
+The IP address of ultimate destination node: 4.2.2.2
+
+The IP addresses of the intermediate destination nodes: 
+	 router 1: 142.104.69.243
+	 router 2: 142.104.68.1
+	 router 3: 192.168.9.5
+	 router 4: 192.168.10.1
+	 router 5: 192.168.8.6
+	 router 6: 142.104.252.37
+	 router 7: 142.104.252.246
+	 router 8: 142.104.250.37
+	 router 9: 207.23.241.221
+	 router 10: 67.69.244.53
+	 router 11: 64.230.122.248
+	 router 12: 64.230.77.230
+	 router 13: 64.230.79.98
+	 router 14: 64.230.125.233
+	 router 15: 4.71.152.41
+	 router 16: 4.69.152.15
+
+The values in the protocol field of IP headers: 
+1: ICMP
+6: TCP
+17: UDP
+
+The avg RTT between 192.168.0.17 and 142.104.69.243 is 1.0 ms the s.d is 0.0 ms
+The avg RTT between 192.168.0.17 and 142.104.68.1 is 1.33 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.17 and 192.168.9.5 is 1.27 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.17 and 192.168.10.1 is 1.5 ms the s.d is 0.08 ms
+The avg RTT between 192.168.0.17 and 192.168.8.6 is 1.57 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.17 and 142.104.252.37 is 1.53 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.17 and 142.104.252.246 is 1.97 ms the s.d is 0.09 ms
+The avg RTT between 192.168.0.17 and 142.104.250.37 is 3.77 ms the s.d is 1.84 ms
+The avg RTT between 192.168.0.17 and 207.23.241.221 is 2.77 ms the s.d is 0.34 ms
+The avg RTT between 192.168.0.17 and 67.69.244.53 is 12.0 ms the s.d is 7.22 ms
+The avg RTT between 192.168.0.17 and 64.230.122.248 is 7.5 ms the s.d is 0.16 ms
+The avg RTT between 192.168.0.17 and 64.230.77.230 is 10.43 ms the s.d is 0.7 ms
+The avg RTT between 192.168.0.17 and 64.230.79.98 is 13.17 ms the s.d is 7.0 ms
+The avg RTT between 192.168.0.17 and 64.230.125.233 is 13.5 ms the s.d is 4.86 ms
+The avg RTT between 192.168.0.17 and 4.71.152.41 is 38.43 ms the s.d is 43.46 ms
+The avg RTT between 192.168.0.17 and 4.69.152.15 is 24.9 ms the s.d is 0.78 ms
+The avg RTT between 192.168.0.17 and 4.2.2.2 is 24.23 the s.d is 0.05 ms

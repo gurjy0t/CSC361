@@ -1,0 +1,203 @@
+Analyzing the file traces/traceroute-frag.pcapng. . .
+file was generated on Linux
+
+get_linux_packets
+The IP address of the source node: 192.168.0.108
+The IP address of ultimate destination node: 4.2.2.2
+
+The IP addresses of the intermediate destination nodes: 
+	 router 1: 142.104.69.243
+	 router 2: 142.104.68.1
+	 router 3: 192.168.9.5
+	 router 4: 192.168.10.1
+	 router 5: 142.104.252.246
+	 router 6: 142.104.250.37
+	 router 7: 207.23.241.221
+	 router 8: 67.69.244.53
+	 router 9: 64.230.122.248
+	 router 10: 64.230.77.230
+	 router 11: 64.230.77.228
+	 router 12: 64.230.79.98
+	 router 13: 64.230.125.233
+	 router 14: 64.230.125.231
+	 router 15: 4.71.152.53
+	 router 16: 4.69.152.15
+
+The values in the protocol field of IP headers: 
+17: UDP
+1: ICMP
+6: TCP
+
+The number of fragments created from the original datagram D1 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D2 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D3 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D4 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D5 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D6 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D7 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D8 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D9 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D10 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D11 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D12 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D13 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D14 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D15 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D16 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D17 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D18 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D19 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D20 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D21 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D22 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D23 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D24 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D25 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D26 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D27 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D28 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D29 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D30 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D31 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D32 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D33 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D34 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D35 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D36 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D37 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D38 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D39 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D40 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D41 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D42 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D43 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D44 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D45 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D46 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D47 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D48 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D49 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D50 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D51 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram D52 is: 2
+The offset of the last fragment is: 1480
+
+The avg RTT between 192.168.0.108 and 142.104.69.243 is 9.43 ms the s.d is 5.05 ms
+The avg RTT between 192.168.0.108 and 142.104.68.1 is 17.6 ms the s.d is 0.24 ms
+The avg RTT between 192.168.0.108 and 192.168.9.5 is 18.43 ms the s.d is 0.21 ms
+The avg RTT between 192.168.0.108 and 192.168.10.1 is 19.9 ms the s.d is 0ms
+The avg RTT between 192.168.0.108 and 142.104.252.246 is 12.2 ms the s.d is 0.2 ms
+The avg RTT between 192.168.0.108 and 142.104.250.37 is 15.17 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.108 and 207.23.241.221 is 55.43 ms the s.d is 4.59 ms
+The avg RTT between 192.168.0.108 and 67.69.244.53 is 11.33 ms the s.d is 1.18 ms
+The avg RTT between 192.168.0.108 and 64.230.122.248 is 13.87 ms the s.d is 0.38 ms
+The avg RTT between 192.168.0.108 and 64.230.77.230 is 15.0 ms the s.d is 0ms
+The avg RTT between 192.168.0.108 and 64.230.77.228 is 15.45 ms the s.d is 1.55 ms
+The avg RTT between 192.168.0.108 and 64.230.79.98 is 15.4 ms the s.d is 0.99 ms
+The avg RTT between 192.168.0.108 and 64.230.125.233 is 18.7 ms the s.d is 0ms
+The avg RTT between 192.168.0.108 and 64.230.125.231 is 19.05 ms the s.d is 0.05 ms
+The avg RTT between 192.168.0.108 and 4.71.152.53 is 127.63 ms the s.d is 0.29 ms
+The avg RTT between 192.168.0.108 and 4.69.152.15 is 30.67 ms the s.d is 1.01 ms
+The avg RTT between 192.168.0.108 and 4.2.2.2 is 29.08 the s.d is 1.08 ms
